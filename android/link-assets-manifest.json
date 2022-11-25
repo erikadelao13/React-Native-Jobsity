@@ -1,0 +1,29 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/TT Norms Pro Black.otf",
+      "sha1": "fff4b4fcace1a57f8201d0c90129ac7f3a4d427f"
+    },
+    {
+      "path": "src/assets/fonts/TT Norms Pro Bold.otf",
+      "sha1": "c1e809b67ea24435ff12b19ef9820c270eac803c"
+    },
+    {
+      "path": "src/assets/fonts/TT Norms Pro ExtraBold.otf",
+      "sha1": "26545c8d9fb95666a9e0b82bf92fe9b0a79de398"
+    },
+    {
+      "path": "src/assets/fonts/TT Norms Pro ExtraLight.otf",
+      "sha1": "82fdcf527200f31d059fc95b82f2ca59ba7148b2"
+    },
+    {
+      "path": "src/assets/fonts/TT Norms Pro Light.otf",
+      "sha1": "afa3c0d1749483fddf53f3dda9b210fc581c1b81"
+    },
+    {
+      "path": "src/assets/fonts/TT Norms Pro Medium.otf",
+      "sha1": "0e724c0fc1d252a900aa9202fd3d6767c694abe6"
+    }
+  ]
+}
